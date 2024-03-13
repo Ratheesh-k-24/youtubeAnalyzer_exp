@@ -1,0 +1,352 @@
+[
+  {
+    "username": "AndrewBake",
+    "userId": "admin123",
+    "userType": "admin",
+    "email": "andrew.baker@example.com",
+    "password": "admin@123"
+  },
+  {
+    "username": "SophieRobinson",
+    "userId": "user123",
+    "userType": "user",
+    "email": "sophie.robinson@example.com",
+    "password": "user@123"
+  },
+  {
+    "username": "NicholasClark",
+    "userId": "user456",
+    "userType": "user",
+    "email": "nicholas.clark@example.com",
+    "password": "user@456"
+  },
+  {
+    "username": "EllaCarter",
+    "userId": "admin789",
+    "userType": "admin",
+    "email": "ella.carter@example.com",
+    "password": "admin@789"
+  },
+  {
+    "username": "BenjaminAdams",
+    "userId": "user1011",
+    "userType": "user",
+    "email": "benjamin.adams@example.com",
+    "password": "user@1011"
+  },
+  {
+    "username": "NatalieEvans",
+    "userId": "user1213",
+    "userType": "user",
+    "email": "natalie.evans@example.com",
+    "password": "user@1213"
+  },
+  {
+    "username": "LucasParker",
+    "userId": "admin1415",
+    "userType": "admin",
+    "email": "lucas.parker@example.com",
+    "password": "admin@1415"
+  },
+  {
+    "username": "AvaFlores",
+    "userId": "user1617",
+    "userType": "user",
+    "email": "ava.flores@example.com",
+    "password": "user@1617"
+  },
+  {
+    "username": "HenryGomez",
+    "userId": "user1819",
+    "userType": "user",
+    "email": "henry.gomez@example.com",
+    "password": "user@1819"
+  },
+  {
+    "username": "GabriellaReyes",
+    "userId": "admin2021",
+    "userType": "admin",
+    "email": "gabriella.reyes@example.com",
+    "password": "admin@2021"
+  },
+  {
+    "username": "OwenHill",
+    "userId": "user2223",
+    "userType": "user",
+    "email": "owen.hill@example.com",
+    "password": "user@2223"
+  },
+  {
+    "username": "CharlotteHughes",
+    "userId": "user2425",
+    "userType": "user",
+    "email": "charlotte.hughes@example.com",
+    "password": "user@2425"
+  },
+  {
+    "username": "JacksonJenkins",
+    "userId": "admin2627",
+    "userType": "admin",
+    "email": "jackson.jenkins@example.com",
+    "password": "admin@2627"
+  },
+  {
+    "username": "AmeliaCruz",
+    "userId": "user2829",
+    "userType": "user",
+    "email": "amelia.cruz@example.com",
+    "password": "user@2829"
+  },
+  {
+    "username": "LiamWard",
+    "userId": "user3031",
+    "userType": "user",
+    "email": "liam.ward@example.com",
+    "password": "user@3031"
+  },
+  {
+    "username": "IsabellaFlores",
+    "userId": "admin3233",
+    "userType": "admin",
+    "email": "isabella.flores@example.com",
+    "password": "admin@3233"
+  },
+  {
+    "username": "MatthewCarter",
+    "userId": "user3435",
+    "userType": "user",
+    "email": "matthew.carter@example.com",
+    "password": "user@3435"
+  },
+  {
+    "username": "ChloeRussell",
+    "userId": "admin3839",
+    "userType": "admin",
+    "email": "chloe.russell@example.com",
+    "password": "admin@3839"
+  },
+  {
+    "username": "AlexanderGreen",
+    "userId": "user4041",
+    "userType": "user",
+    "email": "alexander.green@example.com",
+    "password": "user@4041"
+  },
+  {
+    "username": "GraceKing",
+    "userId": "user4243",
+    "userType": "user",
+    "email": "grace.king@example.com",
+    "password": "user@4243"
+  },
+  {
+    "username": "WilliamCook",
+    "userId": "admin123",
+    "userType": "admin",
+    "email": "william.cook@example.com",
+    "password": "admin@123"
+  },
+  {
+    "username": "SamanthaLee",
+    "userId": "user123",
+    "userType": "user",
+    "email": "samantha.lee@example.com",
+    "password": "user@123"
+  },
+  {
+    "username": "JacobMitchell",
+    "userId": "user456",
+    "userType": "user",
+    "email": "jacob.mitchell@example.com",
+    "password": "user@456"
+  },
+  {
+    "username": "GraceRoberts",
+    "userId": "admin789",
+    "userType": "admin",
+    "email": "grace.roberts@example.com",
+    "password": "admin@789"
+  },
+  {
+    "username": "SophiaStewart",
+    "userId": "user1011",
+    "userType": "user",
+    "email": "sophia.stewart@example.com",
+    "password": "user@1011"
+  },
+  {
+    "username": "LiamYoung",
+    "userId": "user1213",
+    "userType": "user",
+    "email": "liam.young@example.com",
+    "password": "user@1213"
+  },
+  {
+    "username": "AvaKelly",
+    "userId": "admin1415",
+    "userType": "admin",
+    "email": "ava.kelly@example.com",
+    "password": "admin@1415"
+  },
+  {
+    "username": "HenryBailey",
+    "userId": "user1617",
+    "userType": "user",
+    "email": "henry.bailey@example.com",
+    "password": "user@1617"
+  },
+  {
+    "username": "EllaWright",
+    "userId": "user1819",
+    "userType": "user",
+    "email": "ella.wright@example.com",
+    "password": "user@1819"
+  },
+  {
+    "username": "OliviaMorgan",
+    "userId": "admin2021",
+    "userType": "admin",
+    "email": "olivia.morgan@example.com",
+    "password": "admin@2021"
+  },
+  {
+    "username": "JohnSmith",
+    "userId": "admin123",
+    "userType": "admin",
+    "email": "john.smith@example.com",
+    "password": "admin@123"
+  },
+  {
+    "username": "AliceJohnson",
+    "userId": "user123",
+    "userType": "user",
+    "email": "alice.johnson@example.com",
+    "password": "user@123"
+  },
+  {
+    "username": "MichaelBrown",
+    "userId": "user456",
+    "userType": "user",
+    "email": "michael.brown@example.com",
+    "password": "user@456"
+  },
+  {
+    "username": "EmilyDavis",
+    "userId": "admin789",
+    "userType": "admin",
+    "email": "emily.davis@example.com",
+    "password": "admin@789"
+  },
+  {
+    "username": "DavidMiller",
+    "userId": "user1011",
+    "userType": "user",
+    "email": "david.miller@example.com",
+    "password": "user@1011"
+  },
+  {
+    "username": "SarahWilson",
+    "userId": "user1213",
+    "userType": "user",
+    "email": "sarah.wilson@example.com",
+    "password": "user@1213"
+  },
+  {
+    "username": "ChrisAnderson",
+    "userId": "admin1415",
+    "userType": "admin",
+    "email": "chris.anderson@example.com",
+    "password": "admin@1415"
+  },
+  {
+    "username": "JessicaMartinez",
+    "userId": "user1617",
+    "userType": "user",
+    "email": "jessica.martinez@example.com",
+    "password": "user@1617"
+  },
+  {
+    "username": "DanielTaylor",
+    "userId": "user1819",
+    "userType": "user",
+    "email": "daniel.taylor@example.com",
+    "password": "user@1819"
+  },
+  {
+    "username": "AmyThompson",
+    "userId": "admin2021",
+    "userType": "admin",
+    "email": "amy.thompson@example.com",
+    "password": "admin@2021"
+  },
+  {
+    "username": "KevinGarcia",
+    "userId": "user2223",
+    "userType": "user",
+    "email": "kevin.garcia@example.com",
+    "password": "user@2223"
+  },
+  {
+    "username": "OliviaHernandez",
+    "userId": "user2425",
+    "userType": "user",
+    "email": "olivia.hernandez@example.com",
+    "password": "user@2425"
+  },
+  {
+    "username": "WilliamLopez",
+    "userId": "admin2627",
+    "userType": "admin",
+    "email": "william.lopez@example.com",
+    "password": "admin@2627"
+  },
+  {
+    "username": "ElizabethPerez",
+    "userId": "user2829",
+    "userType": "user",
+    "email": "elizabeth.perez@example.com",
+    "password": "user@2829"
+  },
+  {
+    "username": "JamesGonzalez",
+    "userId": "user3031",
+    "userType": "user",
+    "email": "james.gonzalez@example.com",
+    "password": "user@3031"
+  },
+  {
+    "username": "SophiaRodriguez",
+    "userId": "admin3233",
+    "userType": "admin",
+    "email": "sophia.rodriguez@example.com",
+    "password": "admin@3233"
+  },
+  {
+    "username": "JacobWilson",
+    "userId": "user3435",
+    "userType": "user",
+    "email": "jacob.wilson@example.com",
+    "password": "user@3435"
+  },
+  {
+    "username": "EmmaGomez",
+    "userId": "admin3839",
+    "userType": "admin",
+    "email": "emma.gomez@example.com",
+    "password": "admin@3839"
+  },
+  {
+    "username": "AlexanderHill",
+    "userId": "user4041",
+    "userType": "user",
+    "email": "alexander.hill@example.com",
+    "password": "user@4041"
+  },
+  {
+    "username": "MadisonScott",
+    "userId": "user4243",
+    "userType": "user",
+    "email": "madison.scott@example.com",
+    "password": "user@4243"
+  }
+]

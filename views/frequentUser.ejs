@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frequently commented user</title>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <style>
+      body {
+        background-image: url("https://images.unsplash.com/photo-1696777406868-5258913ef41d?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding-top: 20px;
+      }
+      .card-table {
+        background-color: rgba(17, 17, 17, 0.4);
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        backdrop-filter: blur(0px);
+      }
+      .card-header {
+        color: #fff;
+        border-radius: 10px 10px 0 0;
+        padding: 10px;
+        text-align: center;
+        backdrop-filter: blur(0px);
+        font-size: 22px;
+      }
+    </style>
+  </head>
+  <body>
+    <%- include('menu.ejs') %>
+
+    <main class="container">
+      <div class="card card-table">
+        <h1 class="card-header">Frequently commented user</h1>
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table table-striped table-bordered text-white">
+              <thead>
+                <tr>
+                  <th scope="col">User name</th>
+                  <th scope="col">Comment Count</th>
+                </tr>
+              </thead>
+              <tbody>
+                <% frequentUser.forEach(user => { %>
+                <tr>
+                  <td><%= user._id %></td>
+                  <td><%= user.count %></td>
+                </tr>
+                <% }); %>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
