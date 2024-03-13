@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use("/api/users", userRoutes);
 app.use("/api/videos", videosRoutes);
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 mongooseConnection.once("open", () => {
   // Wait for the mongoose connection to open
   app.listen(PORT, () => {
