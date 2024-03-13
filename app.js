@@ -8,7 +8,19 @@ const userRoutes = require("./routes/userRoutes");
 const videosRoutes = require("./routes/videosRoutes");
 
 app.use(express.json());
-app.use(cors());
+
+app.use(
+  cors({
+    origin: "https:localhost:3000",
+  })
+);
+
+app.use((req, res, next) => {
+  res.setHeader("Access-Control-Allow-Origin", "https:localhost:3000");
+  res.setHeader("Access-Control-Allow-Methods", "GET,POST,PUT,DELETE");
+  next();
+});
+
 app.use(bodyParser.json());
 app.use(express.static("views"));
 app.set("views", path.join(__dirname, "views"));
