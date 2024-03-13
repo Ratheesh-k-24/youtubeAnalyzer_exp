@@ -2,6 +2,7 @@ const express = require("express");
 const mongooseConnection = require("./model/db");
 const app = express();
 const path = require("path");
+const cors = require("cors");
 const userRoutes = require("./routes/userRoutes");
 const videosRoutes = require("./routes/videosRoutes");
 
